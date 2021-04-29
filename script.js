@@ -2,7 +2,8 @@ var app = new Vue(
     {
         el: '#root',
         data: {
-            message: 'Messaggio Stampato da Vue'
+            message: 'Messaggio Stampato tramite Vue',
+            img: 'sun.jpg'
         }
 
     }
